@@ -1,0 +1,45 @@
+languageCode = "en-us"
+title = "Anshul Patel"
+baseurl = "http://anshulpatel.me/"
+author = "Anshul Patel"
+theme = "hugo-goa"
+
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+[params]
+
+author = "Anshul Patel"
+intro = "Geek, Gamer, Techie"
+description = "Knowledge is neither good nor bad, morality lies in its application."
+authorimage = "anshul.jpg"
+dateformat = "Jan 2, 2006"
+
+[params.social]
+
+github = "anshulpatel25"
+linkedin = "anshul-patel-29a95635"
+facebook = "anshulpatel.235"
+email = "anshulpatel25@gmail.com"
+
+[params.extra]
+
+copyright = "© 2017. Anshul Patel."
+poweredby = true
+highlightjs = true
+
+[[menu.main]]
+
+  name = "experience"
+  indentifier = "experience"
+  weight = 100
+  url = "/experience/"
+
+[[menu.main]]
+
+  name = "about"
+  identifier = "about"
+  weight = 200
+  url = "/about/"
