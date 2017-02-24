@@ -13,4 +13,4 @@ install:
   - export PATH="/tmp:$PATH"
 script: cd personal_website && hugo --theme=hugo-goa
 after_success:
-  - cd ./public && git init && git add . && git -c user.name='Travis-CI' -c user.email='travis@anshulpatel.me' commit -m "build ${GIT_COMMIT}" && git push --force "https://${GITHUB_TOKEN}@github.com/anshulpatel25/anshulpatel25.github.io.git"  master
+  - GIT_COMMIT=`git rev-parse --short HEAD` && cd ./public && cp -v ../CNAME ./CNAME && git init > /dev/null 2>&1 && git add . && git -c user.name='Travis-CI' -c user.email='travis@anshulpatel.me' commit -m "build ${GIT_COMMIT}" > /dev/null 2>&1 && git push --force "https://${GITHUB_TOKEN}@github.com/anshulpatel25/anshulpatel25.github.io.git"  master > /dev/null 2>&1
