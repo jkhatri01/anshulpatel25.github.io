@@ -1,0 +1,14 @@
+branches:
+  only:
+    - gh-pages
+
+language: go
+sudo: false
+go: 1.7
+
+install:
+  - curl -sSL https://github.com/spf13/hugo/releases/download/v0.18.1/hugo_0.18.1_Linux-64bit.tar.gz | tar -zxf - -C /tmp/
+  - mv /tmp/hugo_0.18.1_linux_amd64/hugo_0.18.1_linux_amd64 /tmp/hugo
+  - rm -rf /tmp/hugo_0.18.1_linux_amd64
+  - export PATH="/tmp:$PATH"
+script: hugo --theme=hugo-goa
