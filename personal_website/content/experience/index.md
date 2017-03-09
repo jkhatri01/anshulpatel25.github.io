@@ -9,7 +9,7 @@ showpagemeta = false
 +++
 
 
-* Sr. DevOps Engineer @ Talentica Software Private Limited (2016 - Present)
+* Sr. DevOps Engineer @ Talentica Software Private Limited (2016 - 2017)
 
 * DevOps Engineer @ Talentica Software Private Limited (2015 - 2016)
 
