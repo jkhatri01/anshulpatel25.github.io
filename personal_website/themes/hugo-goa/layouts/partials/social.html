@@ -23,6 +23,15 @@
   {{ with .Site.Params.social.slideshare }}
   <a href="https://www.slideshare.net/{{.}}"><i class="fa fa-slideshare" aria-hidden="true"></i></a>
   {{ end }}
+  {{ with .Site.Params.social.steam }}
+  <a href="http://steamcommunity.com/id/{{.}}"><i class="fa fa-steam" aria-hidden="true"></i></a>
+  {{ end }}
+  {{ with .Site.Params.social.phone }}
+  <a href="tel:{{.}}"><i class="fa fa-phone" aria-hidden="true"></i></a>
+  {{ end }}
+  {{ with .Site.Params.social.skype }}
+  <a href="skype:{{.}}?userinfo"><i class="fa fa-skype" aria-hidden="true"></i></a>
+  {{ end }}
   {{ with .Site.Params.social.email }}
   <a href="mailto:{{.}}"><i class="fa fa-envelope-o" aria-hidden="true"></i></a>
   {{ end }}
