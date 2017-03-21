@@ -33,7 +33,7 @@ skype = "anshul.patel32"
 
 [params.extra]
 
-copyright = "© 2017. Anshul Patel."
+copyright = "© 2017. Anshul Patel. Site Version : 1.0.0.VERSION_NUMBER"
 poweredby = true
 highlightjs = true
 
