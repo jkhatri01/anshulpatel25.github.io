@@ -11,6 +11,7 @@ install:
   - mv /tmp/hugo_0.17_linux_amd64/hugo_0.17_linux_amd64 /tmp/hugo
   - rm -rf /tmp/hugo_0.17_linux_amd64
   - export PATH="/tmp:$PATH"
+  - sed -i "s/VERSION_NUMBER/$TRAVIS_BUILD_NUMBER/g" personal_website/config.toml
 script: cd personal_website && hugo --theme=hugo-goa
 after_success:
   - GIT_COMMIT=`git rev-parse --short HEAD` && cd ./public && cp -v ../../CNAME ./CNAME && git init > /dev/null 2>&1 && git add . && git -c user.name='Travis-CI' -c user.email='travis@anshulpatel.me' commit -m "build ${GIT_COMMIT}" > /dev/null 2>&1 && git push --force "https://${GITHUB_TOKEN}@github.com/anshulpatel25/anshulpatel25.github.io.git"  master > /dev/null 2>&1
