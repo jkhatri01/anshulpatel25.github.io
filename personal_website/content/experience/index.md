@@ -9,7 +9,7 @@ showpagemeta = false
 +++
 
 
-* Sr. Software Engineer @ Infostretch India Privatet Limited (2017 - Present)
+* Sr. Software Engineer @ Infostretch India Private Limited (2017 - Present)
 
 * Sr. DevOps Engineer @ Talentica Software Private Limited (2016 - 2017)
 
