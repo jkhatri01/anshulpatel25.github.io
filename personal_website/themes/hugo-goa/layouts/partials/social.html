@@ -35,6 +35,9 @@
   {{ with .Site.Params.social.dzone }}
   <a href="https://dzone.com/users/2781342/{{.}}.html"><i class="fa fa-linux" aria-hidden="true"></i></a>
   {{ end }}
+  {{ with .Site.Params.social.whatsapp }}
+  <a href="https://api.whatsapp.com/send?phone={{.}}"><i class="fa fa-whatsapp" aria-hidden="true"></i></a>
+  {{ end }}
   {{ with .Site.Params.social.email }}
   <a href="mailto:{{.}}"><i class="fa fa-envelope-o" aria-hidden="true"></i></a>
   {{ end }}
