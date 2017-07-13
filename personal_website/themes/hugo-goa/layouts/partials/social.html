@@ -38,6 +38,9 @@
   {{ with .Site.Params.social.whatsapp }}
   <a href="https://api.whatsapp.com/send?phone={{.}}"><i class="fa fa-whatsapp" aria-hidden="true"></i></a>
   {{ end }}
+  {{ with .Site.Params.social.stackoverflow }}
+  <a href="https://unix.stackexchange.com/users/{{.}}"><i class="fa fa-stack-overflow" aria-hidden="true"></i></a>
+  {{ end }}
   {{ with .Site.Params.social.email }}
   <a href="mailto:{{.}}"><i class="fa fa-envelope-o" aria-hidden="true"></i></a>
   {{ end }}
