@@ -1,54 +1,32 @@
-languageCode = "en-us"
+baseurl = "http://example.org/"
 title = "Anshul Patel"
-baseurl = "http://www.anshulpatel.in/"
+theme = "hugo-theme-nix"
+languageCode = "en-us"
 author = "Anshul Patel"
-theme = "hugo-goa"
 
-
-contentdir = "content"
-layoutdir = "layouts"
-publishdir = "public"
-
-googleAnalytics = "UA-93926186-1"
-enableRobotsTXT = true
+[menu]
+  [[menu.header]]
+    name = "post"
+    weight = 0
+    url = "/post"
+  [[menu.header]]
+    name = "about"
+    weight = 1
+    url = "/about"
+  [[menu.header]]
+    name = "geeky"
+    weight = 2
+    url = "http://geeky.anshulpatel.in"
 
 [params]
-
-author = "Anshul Patel"
-intro = "Geek, Gamer, Techie"
-description = "Knowledge is neither good nor bad, morality lies in its application."
-authorimage = "anshul.jpg"
-dateformat = "Jan 2, 2006"
-
-[params.social]
-
-github = "anshulpatel25"
-linkedin = "anshul-patel-29a95635"
-slideshare = "anshulpatel5"
-email = "anshulpatel25@gmail.com"
-steam = "anveshak25"
-phone = "+918390905963"
-dzone = "anshulp25"
-skype = "anshul.patel32"
-whatsapp ="+918390905963"
-stackoverflow="78211"
-
-[params.extra]
-
-copyright = "© 2017. Anshul Patel. Site Version : 1.0.0.VERSION_NUMBER"
-poweredby = true
-highlightjs = true
-
-[[menu.main]]
-
-  name = "experience"
-  indentifier = "experience"
-  weight = 100
-  url = "/experience/"
-
-[[menu.main]]
-
-  name = "about"
-  identifier = "about"
-  weight = 200
-  url = "/about/"
+  GithubID = "your_github"
+  TwitterID = "your_twitter"
+  LinkedInID = "your_linkedin"
+  GoogleplusID = "your_googleplus"
+  FacebookID = "your_facebook"
+  Name = "Anshul Patel"
+  HeaderUsername = "anshul"
+  HeaderHostname = "patel"
+  Email = "your_email"
+  About = "Knowledge is neither good nor bad, morality lies in its application."
+  ProfilePicture = "/profile.jpg"
