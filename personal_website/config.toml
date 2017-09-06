@@ -6,7 +6,7 @@ author = "Anshul Patel"
 
 [menu]
   [[menu.header]]
-    name = "post"
+    name = "blog"
     weight = 0
     url = "/post"
   [[menu.header]]
@@ -15,7 +15,7 @@ author = "Anshul Patel"
     url = "/about"
   [[menu.header]]
     name = "geeky"
-    weight = 2
+    weight = 0
     url = "http://geeky.anshulpatel.in"
 
 [params]
@@ -30,8 +30,9 @@ author = "Anshul Patel"
   StackOverflowID = "your_stackoverflow"
   LinkedInID = "your_linkedin"
   Name = "Anshul Patel"
+  TagLine = "Geek, Gamer, Techie"
   HeaderUsername = "anshul"
   HeaderHostname = "patel"
   Email = "your_email"
   About = "Knowledge is neither good nor bad, morality lies in its application."
-  ProfilePicture = "/profile.jpg"
+  ProfilePicture = "/anshul.jpg"
