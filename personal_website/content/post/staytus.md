@@ -7,7 +7,8 @@ tags = [
     "sitereliability",
     "monitoring",
     "staytus",
-    "postmortem"
+    "postmortem",
+    "scalability"
 ]
 +++
 
