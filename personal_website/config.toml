@@ -14,6 +14,10 @@ author = "Anshul Patel"
     weight = 1
     url = "/about"
   [[menu.header]]
+    name = "meetups"
+    weight = 0
+    url = "/meetup"
+  [[menu.header]]
     name = "geeky"
     weight = 0
     url = "http://geeky.anshulpatel.in"
