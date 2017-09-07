@@ -1,30 +1,23 @@
 +++
-title = "About Hugo"
+title = "About"
 showthedate = false
-menu = "main"
+
 +++
 
-Hugo is a static site engine written in Go.
+## Description
 
+I am an Engineer on a crusade to maintain and provide **STABLE** ( **S**ite-Reliability, **T**ools support, **A**utomation, **B**uild/release engineering, **L**owcost **E**fficient infrastructure ) environments, so that development team can maintain healthy **DIET** (**D**evelop, **I**ntegrate, **E**nhance, **T**est ) of software services and platforms.
 
-It makes use of a variety of open source projects including:
+## Experience
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
+* Sr. Software Enginer @ Infostretch Software Private Limited (2017-Present)
 
-Learn more and contribute on [GitHub](https://github.com/spf13).
+* Sr. DevOps Engineer @ Talentica Software Private Limited (2016 - 2017)
 
-## Setup
+* DevOps Engineer @ Talentica Software Private Limited (2015 - 2016)
 
-Some fun facts about [Hugo](http://gohugo.io/):
+* Infra Subject Matter Expert @ Amdocs (2014 - 2015)
 
-* Built in [Go](http://golang.org/)
-* Loosely inspired by [Jekyll](http://jekyllrb.com/)
-* Primarily developed by [spf13](http://spf13.com/) on the train while commuting to and from Manhattan.
-* Coded in [Vim](http://vim.org) using [spf13-vim](http://vim.spf13.com/)
+* Jr. System Engineer @ Elitecore Technologies Private Limited (2013 - 2014)
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13).
-
-Thanks for reading!
+* Project Trainee @ Elitcore Technologies Private Limited (2013)
