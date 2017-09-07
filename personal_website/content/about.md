@@ -10,7 +10,7 @@ I am an Engineer on a crusade to maintain and provide **STABLE** ( **S**ite-Reli
 
 ## Experience
 
-* Sr. Software Enginer @ Infostretch Software Private Limited (2017-Present)
+* Sr. Software Engineer @ Infostretch Software Private Limited (2017-Present)
 
 * Sr. DevOps Engineer @ Talentica Software Private Limited (2016 - 2017)
 
