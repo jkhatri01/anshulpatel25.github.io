@@ -1,4 +1,5 @@
-baseurl = "http://example.org/"
+
+baseurl = "http://192.168.31.167:1313/"
 title = "Anshul Patel"
 theme = "hugo-theme-nix"
 languageCode = "en-us"

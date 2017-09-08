@@ -23,6 +23,7 @@ Infrastructure-as-code provides a mechanism to apply changes to the system in a 
 * No more Snowflake servers.
 * Version control for server environments.
 * Like traditional code, it also requires testing to maintain its quality and integrity.
+* Auditable Infrastructure.
 
 ## Serverspec
 
