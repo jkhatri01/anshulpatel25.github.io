@@ -6,7 +6,7 @@ title = "Apache Zookeeper"
 +++
 
 
-My meetup talk discusses about basics of how to achieve naming service, locking, synchronization, configuration management & leader election with Apache Zookeper.
+My meetup talk discusses about the architecture, configuration, scalability and management of Apache Zookeeper.
 
 <!--more-->
 
