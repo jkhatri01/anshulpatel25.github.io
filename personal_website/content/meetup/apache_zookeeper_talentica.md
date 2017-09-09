@@ -6,7 +6,7 @@ title = "Apache Zookeeper"
 +++
 
 
-This meetup discusses about basics of how to achieve naming service, locking, synchronization, configuration management & leader election with Apache Zookeper.
+My meetup talk discusses about basics of how to achieve naming service, locking, synchronization, configuration management & leader election with Apache Zookeper.
 
 <!--more-->
 
