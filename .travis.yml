@@ -8,8 +8,7 @@ go: 1.8
 
 install:
   - curl -sSL https://github.com/spf13/hugo/releases/download/v0.26/hugo_0.26_Linux-64bit.tar.gz | tar -zxf - -C /tmp/
-  - mv /tmp/hugo_0.26_linux_amd64/hugo_0.26_linux_amd64 /tmp/hugo
-  - rm -rf /tmp/hugo_0.26_linux_amd64
+  - ls /tmp/
   - export PATH="/tmp:$PATH"
 script: cd personal_website && hugo --theme=hugo-theme-nix
 after_success:
