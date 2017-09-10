@@ -63,3 +63,5 @@ A postmortem is a written record of an incident, its impact, the actions taken t
 1. Updated the Machine family from t2.large to m4.xlarge. *R2D2APIGateway* now has capacity to handle 5X traffic surge. (Github Issue: #2595)
 
 **Detection** : Monitoring System detected timeouts for queries to *R2D2APIGateway*.
+
+**Follow-Up Actions**: Update the machine family in the Infrastructure-as-code scripts to prevent the same in future. (Github Issue: #2597)
