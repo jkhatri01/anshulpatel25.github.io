@@ -22,13 +22,18 @@ When the browser receives this header, the browser prevents all communication ov
 
 HSTS is designed to overcome following threats:
 
-User bookmarks or manual types like "http://example.com" are vulnerable to man-in-the-middle attack.
-A web application that is intended to be communicated over HTTPS, contains HTTP links or serves content over HTTP.
-Man-in-the-middle attack which makes victim accept the bad certificate by intercepting network traffic.
-HSTS in Action
+* User bookmarks or manual types like "http://example.com" are vulnerable to man-in-the-middle attack.
 
-Webserver directive should be added to upgrade all HTTP connections to HTTPS connections on first-time website access.
-Webserver directive to add HSTS header in HTTPS section.
-If the configuration is successful, you will get following 307(Internal Redirect) redirection from the browser.
+* A web application that is intended to be communicated over HTTPS, contains HTTP links or serves content over HTTP.
+
+* Man-in-the-middle attack which makes victim accept the bad certificate by intercepting network traffic.
+
+## HSTS in Action
+
+* Webserver directive should be added to upgrade all HTTP connections to HTTPS connections on first-time website access.
+
+* Webserver directive to add HSTS header in HTTPS section.
+
+* If the configuration is successful, you will get following 307(Internal Redirect) redirection from the browser.
 
 ![hsts](/img/hsts_redirect.png)
