@@ -64,4 +64,4 @@ A postmortem is a written record of an incident, its impact, the actions taken t
 
 **Detection** : Monitoring System detected timeouts for queries to *R2D2APIGateway*.
 
-**Follow-Up Actions**: Update the machine family in the Infrastructure-as-code scripts to prevent the same in future. (Github Issue: #2597)
+**Follow-Up Actions**: Update the machine family in the Infrastructure-as-code scripts to prevent the same in future. (Github Issue: #2598)
