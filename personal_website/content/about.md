@@ -21,5 +21,3 @@ I am an Engineer on a crusade to maintain and provide **STABLE** ( **S**ite-Reli
 * Jr. System Engineer @ Elitecore Technologies Private Limited (2013 - 2014)
 
 * Project Trainee @ Elitcore Technologies Private Limited (2013)
-
-* Web Security Consultant @ Youth Connect Magazine (2012)
