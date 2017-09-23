@@ -12,6 +12,10 @@ tags = [
 ]
 +++
 
+Linux based systems uses defined terminologies for different components of Processors.
+
+<!--more-->
+
 **Chip**: Chip or CPU chip is Integrated Circuit (IC) which encompasses single or multiple cores.
 
 **Sockets**: Socket is a physical connector on Motherboard that accepts the chip. Motherboards can have multiple sockets.
