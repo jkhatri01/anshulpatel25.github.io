@@ -2,7 +2,7 @@
 author = "Anshul Patel"
 date = 2017-04-11
 showthedate = true
-title = "CPU Terminologies Explained"
+title = "Linux CPU Terminologies Explained"
 tags = [
     "linux",
     "perfops",
