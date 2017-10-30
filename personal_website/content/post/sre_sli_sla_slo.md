@@ -16,6 +16,8 @@ Service Level Indicator(**SLI**), Service Level Object(**SLO**) & Service Level 
 
 <!--more-->
 
+![sla_meme](/img/sla_meme.jpg)
+
 ## Service Level Indicator
 
 SLI are the parameters which indicates the successful transactions, requests served by the service over the predefined intervals of time. These parameters allows to measure much required performance and availability of the service. Measuring these parameters also enables to improve them gradually.
@@ -46,7 +48,6 @@ Key Examples of Penalty are:
 
 * Partial refund of service subscription fee.
 * Additional subscription time added for free.
-
 
 ## Insightful References
 
