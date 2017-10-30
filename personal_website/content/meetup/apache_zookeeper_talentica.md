@@ -12,7 +12,7 @@ My meetup talk discusses about the architecture, configuration, scalability and 
 
 ## Slides
 
-[Apache Zookeeper](https://www.slideshare.net/AnshulPatel5/meetup-on-apache-zookeeper)
+{{<slideshare qyiH1pC1qotEG5>}}
 
 ## Pictures
 

@@ -12,7 +12,7 @@ My meetup talk discusses about how to build immutable operating systems [Unikern
 
 ## Slides
 
-[LinuxKit](https://www.slideshare.net/AnshulPatel5/linux-kit-meetupv100)
+{{<slideshare 4wv4PfiqLR2Ezq>}}
 
 ## Pictures
 

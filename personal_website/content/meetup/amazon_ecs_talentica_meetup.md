@@ -12,7 +12,7 @@ My meetup talk discusses about basics of Docker containers and how to orchestrat
 
 ## Slides
 
-[Container Cluster Management with ECS](https://www.slideshare.net/AnshulPatel5/aws-ecs-meetup-talentica)
+{{<slideshare ldqXAFbAlbUbjP>}}
 
 ## Pictures
 
