@@ -4,10 +4,10 @@ branches:
 
 language: go
 sudo: false
-go: 1.8
+go: 1.9
 
 install:
-  - curl -sSL https://github.com/spf13/hugo/releases/download/v0.26/hugo_0.26_Linux-64bit.tar.gz | tar -zxf - -C /tmp/
+  - curl -sSL https://github.com/gohugoio/hugo/releases/download/v0.30.2/hugo_0.30.2_Linux-64bit.tar.gz | tar -zxf - -C /tmp/
   - ls /tmp/
   - export PATH="/tmp:$PATH"
 script: cd personal_website && hugo --theme=hugo-theme-nix
