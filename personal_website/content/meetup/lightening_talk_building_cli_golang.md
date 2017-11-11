@@ -6,7 +6,7 @@ title = "Building CLI applications with Golang"
 +++
 
 
-My lightening talk discusses on structure, , framework and workflow of developing Command Line Interface (CLI) application using Golang.
+My lightening talk discusses on structure, architecture, framework and workflow of developing Command Line Interface (CLI) applications using Golang.
 
 <!--more-->
 
