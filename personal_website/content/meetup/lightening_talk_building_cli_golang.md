@@ -13,3 +13,9 @@ My lightening talk discusses on structure, architecture, framework and workflow 
 ## Slides
 
 {{<slideshare Fgzi0xpxqHbLfq>}}
+
+## Pictures
+
+
+![ltalk_cli_app_1](/meetupics/ltalk_cli_app_1.jpeg)
+![ltalk_cli_app_2](/meetupics/ltalk_cli_app_2.jpeg)
