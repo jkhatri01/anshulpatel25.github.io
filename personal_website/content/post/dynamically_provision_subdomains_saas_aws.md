@@ -59,11 +59,11 @@ From the below output we can confirm that we are able to route to subdomain on-t
 
 {{< highlight bash >}}
 [ec2-user@ip-172-31-56-134 ~]$ curl http://amazon.anshulpatel.in
-Organization Name:amazon
+Tenant Name:amazon
 [ec2-user@ip-172-31-56-134 ~]$ curl http://facebook.anshulpatel.in
-Organization Name:facebook
+Tenant Name:facebook
 [ec2-user@ip-172-31-56-134 ~]$ curl http://google.anshulpatel.in
-Organization Name:google
+Tenant Name:google
 {{< /highlight >}}
 
 
