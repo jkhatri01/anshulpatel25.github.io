@@ -16,6 +16,8 @@ Software Architects are required to analyze business and domain requirements tha
 <!--more-->
 
 
+ {.table-striped}
+
 |                 |                  |                 |                     |                  |                |
 |-----------------|------------------|-----------------|---------------------|------------------|----------------|
 | accessibility   | accountability   | accuracy        | adaptability        | administrability |                |
