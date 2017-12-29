@@ -13,6 +13,6 @@ Go's native concurrency feature make its good choice for developing network and 
 
 <!--more-->
 
-Following gist provides to create HTTP based fileserver under 50 lines:
+Following gist provides code which creates HTTP based fileserver under 50 lines:
 
 {{< gist anshulpatel25 c78e97a648b8afadc450fd77c51e6c60 >}}
