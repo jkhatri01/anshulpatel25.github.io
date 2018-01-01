@@ -36,7 +36,7 @@ __For eg:__
 
 * Terminating half of the instances in Auto-Scaling group of the service might result in the following scenarios:
 
-  - 25% increase the response latency from the service.
+  - 25% increase in response latency of the service.
 
   - 30% increase in CPU utilization of existing machines.
 
