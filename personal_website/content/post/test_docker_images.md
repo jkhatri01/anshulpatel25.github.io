@@ -12,7 +12,7 @@ tags = [
     ]
 +++
 
-[Goss](https://github.com/aelsabbahy/goss) is alternative tool for validating server's configuration. [Dgoss](https://github.com/aelsabbahy/goss/tree/master/extras/dgoss) is wrapper written on top of the goss for validating docker images.
+[Goss](https://github.com/aelsabbahy/goss) is tool for validating server's configuration. [Dgoss](https://github.com/aelsabbahy/goss/tree/master/extras/dgoss) is wrapper written on top of the goss for validating docker images.
 
 <!--more-->
 
