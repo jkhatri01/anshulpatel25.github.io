@@ -59,7 +59,7 @@ Lets say we have 3 Microservices
 
 __*Source Code*__ : https://github.com/anshulpatel25/distributed_tracing
 
-We will be using above source code to get the execution time for PaymentService and OrderService, when it is called from the MyService.
+We will be using above source code to get the execution time for PaymentService and OrderService, when they are called from the MyService.
 
 ### Output
 
