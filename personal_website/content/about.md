@@ -8,6 +8,19 @@ showthedate = false
 
 I am an Engineer on a crusade to maintain and provide **STABLE** ( **S**ite-Reliability, **T**ools support, **A**utomation, **B**uild/release engineering, **L**owcost **E**fficient infrastructure ) environments, so that development team can maintain healthy **DIET** (**D**evelop, **I**ntegrate, **E**nhance, **T**est ) of software services and platforms.
 
+I focus on the following:
+
+* Superior Quality
+* Reliable service delivery schedule
+* Immutability in infrastructure
+* Saving cost, effort and time
+
+so that customer achieve the following:
+
+* Higher Satisfaction
+* Better responsiveness to the change
+
+
 ## Experience
 
 * Sr. Software Engineer, DevOps @ Infostretch Software Private Limited (2017-Present)
