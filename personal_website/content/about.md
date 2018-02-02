@@ -7,12 +7,15 @@ showthedate = false
 ## Description
 
 I am an Engineer on a crusade to provide **STABLE** environments:
+
 * **S**ite-Reliability
 * **T**ools support
 * **A**utomation
 * **B**uild/release engineering
 * **L**owcost **E**fficient infrastructure
+
 so that development team can maintain healthy **DIET** of software services and platforms:
+
 * **D**evelop
 * **I**ntegrate
 * **E**nhance
