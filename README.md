@@ -7,5 +7,5 @@
 
 | Technology | Version |
 |------------|---------|
-| Hugo       | 0.30.2    |
+| Hugo       | 0.35.0    |
 | Golang     | 1.9     |

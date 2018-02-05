@@ -7,7 +7,7 @@ sudo: false
 go: 1.9
 
 install:
-  - curl -sSL https://github.com/gohugoio/hugo/releases/download/v0.32/hugo_0.32_Linux-64bit.tar.gz | tar -zxf - -C /tmp/
+  - curl -sSL https://github.com/gohugoio/hugo/releases/download/v0.35/hugo_0.35_Linux-64bit.tar.gz | tar -zxf - -C /tmp/
   - ls /tmp/
   - export PATH="/tmp:$PATH"
 script: cd personal_website && hugo --theme=hugo-theme-nix
