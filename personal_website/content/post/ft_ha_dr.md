@@ -32,6 +32,7 @@ This article discusses the subtle differences between fault tolerance, disaster 
 
 * Highly available system doesn't prevent outages. 
 * Highly available system does guarantee that outages will be brief, because it will not take much time to redeploy the required component. Generally failover from outage is automatic.
+* Multiple components can be designed to be highly available to make the overall system fault tolerant.
 
 ![High Availability](/img/jeep-ha.jpg)
 
@@ -40,7 +41,7 @@ This article discusses the subtle differences between fault tolerance, disaster 
 ## Disaster Recovering
 
 * Murphy's law `whatever can go wrong, will go wrong`. If failures of system are not addressed, it will eventually lead to system outage.
-* Disaster Recovery is about set of policies and procedures about recovering data from failed infrastructure for disruptive events such as power outage, flood or cyberattack. 
+* Disaster Recovery is about set of policies and procedures about recovering data from failed infrastructure caused by disruptive events such as power outage, flood or cyberattack. 
 * Recoverd/Backedup data is generally migrated/moved to new infrastructure.
 
 ![Disaster Recovery](/img/disaster-recovery-ejection.jpg)
