@@ -42,6 +42,6 @@ This article discusses the subtle differences between fault tolerance, disaster 
 
 * Murphy's law `whatever can go wrong, will go wrong`. If failures of system are not addressed, it will eventually lead to system outage.
 * Disaster Recovery is about set of policies and procedures about recovering data from failed infrastructure caused by disruptive events such as power outage, flood or cyberattack. 
-* Recoverd/Backedup data is generally migrated/moved to new infrastructure.
+* Recovered/Backedup data is generally migrated/moved to new infrastructure.
 
 ![Disaster Recovery](/img/disaster-recovery-ejection.jpg)
