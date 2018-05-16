@@ -21,7 +21,7 @@ author = "Anshul Patel"
   [[menu.header]]
     name = "geeky"
     weight = 0
-    url = "http://anveshak-geeky-geeky.7e14.starter-us-west-2.openshiftapps.com"
+    url = "http://anveshak-anveshak.193b.starter-ca-central-1.openshiftapps.com"
 
 [params]
   GithubID = "anshulpatel25"
