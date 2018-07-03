@@ -36,9 +36,9 @@ so that customer achieve the following:
 
 ## Experience
 
-* Technical Lead, DevOps @ Infostretch Software Private Limited (2018 - Present)
+* Technical Lead, DevOps @ Infostretch Corporation Private Limited (2018 - Present)
 
-* Sr. Software Engineer, DevOps @ Infostretch Software Private Limited (2017 - 2018)
+* Sr. Software Engineer, DevOps @ Infostretch Corporation Private Limited (2017 - 2018)
 
 * Sr. DevOps Engineer @ Talentica Software Private Limited (2016 - 2017)
 
