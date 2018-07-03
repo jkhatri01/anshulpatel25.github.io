@@ -10,14 +10,14 @@ tags = [
 ]
 +++
 
-IPLocator is tool which provides meta inforamtion regarding domain location such as ASN, ISP, ISP Latitude, ISP Longitude, Country, Timezone, etc ..
+IPLocator is tool which provides meta information regarding domain location such as ASN, ISP, ISP Latitude, ISP Longitude, Country, Timezone, etc ..
 
 <!--more-->
 
 ## Why?
 
 - To find location related information, I had to search for such webapp on Google and then browse to that website to get the details.
-- To simplify this process and to sharp up my Golang skill, decided to write a utility.
+- To simplify the above process and to sharp up my Golang skill, decided to write this utility.
 
 
 ## Compile and Installation
