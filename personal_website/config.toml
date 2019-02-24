@@ -18,10 +18,10 @@ author = "Anshul Patel"
     name = "meetups"
     weight = 1
     url = "/meetup"
-  [[menu.header]]
-    name = "geeky"
-    weight = 0
-    url = "http://anveshak-anveshak.193b.starter-ca-central-1.openshiftapps.com"
+  # [[menu.header]]
+  #   name = "geeky"
+  #   weight = 0
+  #   url = "http://anveshak-anveshak.193b.starter-ca-central-1.openshiftapps.com"
 
 [params]
   GithubID = "anshulpatel25"
