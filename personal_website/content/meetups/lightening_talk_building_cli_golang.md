@@ -17,5 +17,5 @@ My lightening talk discusses on structure, architecture, framework and workflow 
 ## Pictures
 
 
-![ltalk_cli_app_1](/meetupics/ltalk_cli_app_1.jpeg)
-![ltalk_cli_app_2](/meetupics/ltalk_cli_app_2.jpeg)
+![ltalk_cli_app_1](/meetup_pics/ltalk_cli_app_1.jpeg)
+![ltalk_cli_app_2](/meetup_pics/ltalk_cli_app_2.jpeg)

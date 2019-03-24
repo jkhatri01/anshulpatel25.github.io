@@ -23,7 +23,7 @@ googleAnalytics = "UA-93926186-1"
     avatarurl = "images/anshul_infostretch.jpg"
     footercontent = "In my spare time, I plan World Domination from a secret villainous lair."
 
-    dateformat = "May 2, 1992"
+    dateformat = "January 2, 2006"
 
     hideCredits = false
     hideCopyright = false
@@ -86,10 +86,10 @@ googleAnalytics = "UA-93926186-1"
         # weight = 2
         # url = "/posts/"
 
-        # [[languages.en.menu.main]]
-        # name = "Meetups"
-        # weight = 3
-        # url = "/meetups/"
+        [[languages.en.menu.main]]
+        name = "Meetups"
+        weight = 3
+        url = "/meetups/"
 
     [languages.in-gj]
         languagename = "ગુજરાતી"

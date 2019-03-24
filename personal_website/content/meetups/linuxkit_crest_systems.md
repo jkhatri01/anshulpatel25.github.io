@@ -17,6 +17,6 @@ My meetup talk discusses about how to build immutable operating systems [Unikern
 ## Pictures
 
 
-![linuxkit_crest_systems_1](/meetupics/linuxkit_crest_systems_1.jpg)
-![linuxkit_crest_systems_2](/meetupics/linuxkit_crest_systems_2.jpg)
-![linuxkit_crest_systems_3](/meetupics/linuxkit_crest_systems_3.jpg)
+![linuxkit_crest_systems_1](/meetup_pics/linuxkit_crest_systems_1.jpg)
+![linuxkit_crest_systems_2](/meetup_pics/linuxkit_crest_systems_2.jpg)
+![linuxkit_crest_systems_3](/meetup_pics/linuxkit_crest_systems_3.jpg)

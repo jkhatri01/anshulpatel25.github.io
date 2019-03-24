@@ -17,6 +17,6 @@ My meetup talk discusses about the architecture, configuration, scalability and 
 ## Pictures
 
 
-![apache_zookeeper_talentica_2](/meetupics/apache_zookeeper_talentica_2.jpg)
-![apache_zookeeper_talentica_3](/meetupics/apache_zookeeper_talentica_3.jpg)
-![apache_zookeeper_talentica_4](/meetupics/apache_zookeeper_talentica_4.jpg)
+![apache_zookeeper_talentica_2](/meetup_pics/apache_zookeeper_talentica_2.jpg)
+![apache_zookeeper_talentica_3](/meetup_pics/apache_zookeeper_talentica_3.jpg)
+![apache_zookeeper_talentica_4](/meetup_pics/apache_zookeeper_talentica_4.jpg)
