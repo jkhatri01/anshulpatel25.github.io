@@ -1,6 +1,6 @@
 branches:
   only:
-    - gh-pages-nix
+    - gh-pages-coder
 
 language: go
 sudo: false
