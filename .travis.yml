@@ -1,3 +1,5 @@
+dist: xenial
+
 branches:
   only:
     - gh-pages-coder
@@ -5,11 +7,6 @@ branches:
 language: go
 sudo: false
 go: 1.12.1
-
-addons:
-  apt:
-    packages:
-      - libstdc++6
 
 install:
   - curl -sSL https://github.com/gohugoio/hugo/releases/download/v0.54.0/hugo_extended_0.54.0_Linux-64bit.tar.gz | tar -zxf - -C /tmp/
