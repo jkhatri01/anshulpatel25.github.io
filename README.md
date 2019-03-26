@@ -5,7 +5,7 @@
 
 ## Technology Matrix
 
-| Technology | Version |
-|------------|---------|
-| Hugo       | 0.40.0    |
-| Golang     | 1.9     |
+| Technology     | Version |
+|----------------|---------|
+| Hugo(Extended) | 0.54.0  |
+| Golang         | 1.12.1  |
