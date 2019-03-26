@@ -81,10 +81,10 @@ googleAnalytics = "UA-93926186-1"
         weight = 1
         url = "/about/"
 
-        # [[languages.en.menu.main]]
-        # name = "Blog"
-        # weight = 2
-        # url = "/posts/"
+        [[languages.en.menu.main]]
+        name = "Blog"
+        weight = 2
+        url = "/post/"
 
         [[languages.en.menu.main]]
         name = "Meetups"
