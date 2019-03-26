@@ -70,7 +70,16 @@ googleAnalytics = "UA-93926186-1"
     icon = "fab fa-steam"
     weight = 5
     url = "http://steamcommunity.com/id/anveshak25/"
-
+[[params.social]]
+    name = "Email"
+    icon = "fas fa-envelope"
+    weight = 6
+    url = "mailto:anshulpatel25@gmail.com"
+[[params.social]]
+    name = "Email"
+    icon = "fab fa-slideshare"
+    weight = 7
+    url = "https://www.slideshare.net/anshulpatel5"
 
 [languages]
     [languages.en]
