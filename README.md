@@ -7,5 +7,5 @@
 
 | Technology     | Version |
 |----------------|---------|
-| Hugo(Extended) | 0.54.0  |
-| Golang         | 1.12.1  |
+| Hugo(Extended) | 0.55.5  |
+| Golang         | 1.12.4  |
