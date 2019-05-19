@@ -27,6 +27,7 @@ __Process Time__: It is the amount of CPU time used by a process.
 * Jiffies value can be fetched via `sysconf(_SC_CLK_TCK)` system call.
 
 {{< highlight python >}}
+#!/usr/bin/env python3
 import os
 print(os.sysconf(os.sysconf_names['SC_CLK_TCK']))
 # 100
