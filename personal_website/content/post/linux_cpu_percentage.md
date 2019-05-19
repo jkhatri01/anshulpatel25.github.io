@@ -30,6 +30,7 @@ __Process Time__: It is the amount of CPU time used by a process.
 import os
 print(os.sysconf(os.sysconf_names['SC_CLK_TCK']))
 # 100
+# 1 second = 100 Jiffies
 {{< /highlight >}}
 
 ## How to fetch Jiffies in Linux?
@@ -75,7 +76,7 @@ cat /proc/3465/stat | awk '{print $14, $15, $16, $17}'
 (100 * 50)/450 = 11.111%
 ```
 
-* Jiffies can be converted to Real Time via `(Jiffies/100)`, it may be greater than Real Time if a Process utilizes more than one CPU or Core.
+* Jiffies can be converted to Real Time (seconds) via `(Jiffies/100) as 1 second = 100 Jiffies`, it may be greater than Real Time if a Process utilizes more than one CPU or Core.
 
 __Golang Snippet__
 
