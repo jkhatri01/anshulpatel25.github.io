@@ -85,6 +85,11 @@ googleAnalytics = "UA-93926186-1"
     icon = "fab fa-telegram"
     weight = 8
     url = "http://telegram.me/anshulpatel25"
+[[params.social]]
+    name = "HackerRank"
+    icon = "fab fa-hackerrank"
+    weight = 9
+    url = "https://www.hackerrank.com/anveshak"
 
 
 
