@@ -113,12 +113,12 @@ googleAnalytics = "UA-93926186-1"
         url = "/meetups/"
 
     [languages.in-gj]
-        languagename = "ગુજરાતી"
+        languagename = "અમદાવાદી ગુજરાતી"
         title = "અંશુલ પટેલ"
 
         [languages.in-gj.params]
             author = "અંશુલ પટેલ"
-            info = "નફટ, ચાંપલો, દોઢ ડાહ્યો"
+            info = "કંજૂસ, નફટ, ચાંપલો, દોઢ ડાહ્યો"
             description = "મારી મરજી"
             keywords = "personal,geek,gamer,techie"
             footercontent = "જો બકા, વેબસાઈટ તો આપણીજ !"
