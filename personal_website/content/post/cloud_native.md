@@ -21,6 +21,8 @@ To understand the cloud-native, we should first understand the definition of the
 - Resource pooling
 - Measured service
 
+<!--more-->
+
 ![sla_meme](/img/cloud_native_meme.jpg)
 
 Cloud-Native applications should be the applications which are designed and implemented to use and take advantage of the above cloud computing characteristics.
