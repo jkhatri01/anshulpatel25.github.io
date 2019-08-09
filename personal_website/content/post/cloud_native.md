@@ -73,3 +73,4 @@ Cloud-Native applications should have the following characteristics:
 ### API centric
 
 - Applications use well defined lightweight API on top of common protocols (For eg: REST, gRPC) for exchanging the data. The protocols used are intentionally language independent to support Polyglot Paradigm.
+- API centric approach also promotes `Broad network access`, hence same API(s) can be consumed by Mobiles, IoT devices, Servers and Development teams which then can use it for their scenarios.
