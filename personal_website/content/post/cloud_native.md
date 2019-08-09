@@ -33,7 +33,7 @@ Cloud-Native applications should have the following characteristics:
 - Containers can be much more efficient than VMs as multiple containers can be executed on a single VM, hence further optimizing `Resource Pooling` characteristics.
 - Functions as service (For eg: Lambda) can further optimize `Resource Pooling`.
 
-### Decoupled Configuration & Secret
+### Decoupled Configurations & Secrets
 
 - Immutability and elasticity make it difficult to add configuration as part of code, hence centralized K/V store (For eg: Hashicorp Consul) and secrets engine (For eg: Hashicorp Vault, AWS KMS) should be implemented.
 - The application should fetch the secrets and K/V from the above engines, providing on-demand flexibility to append, update secrets and K/V.
@@ -45,15 +45,15 @@ Cloud-Native applications should have the following characteristics:
 ### Modular Applications
 
 - Problem with monoliths was that even if we need to scale only one module ( For eg: Payment), we need to replicate/scale the whole monolith which defeats the purpose of `Resource Pooling`
-- Microservices and MicroFrontends can provide better `Resource Pooling` by running containers/functions on the same VMs. Also scaling Microservices also becomes easy as it is independent/loosely coupled and performs single functionality of the domain. (For eg: In Ecommerce domain, single functionality can be Payment, Checkout, Carts, Orders, Shipping, etc). Most of the modern-day storage systems are multi-tenant, hence multiple applications can take advantage of this multi-tenancy (`Resource Pooling`)characteristics.
+- Microservices and MicroFrontends can provide better `Resource Pooling` by running containers/functions on the same VMs. Also scaling Microservices becomes easy as it is independent/loosely coupled and performs single functionality of the domain. (For eg: In Ecommerce domain, single functionality can be Payment, Checkout, Carts, Orders, Shipping, etc). Most of the modern-day storage systems are multi-tenant, hence multiple applications can take advantage of this multi-tenancy (`Resource Pooling`)characteristics.
 
-### Polyglot Architecture
+### Polyglot Paradigm
 
 - Probably the best thing of using this paradigm. As dependencies are packaged along with the application and are isolated from the underlying execution environment, the development team can use their language of choice to write their modules and achieve their use case.
 
 ### Centralized Logging
 
-- Due to Rapid Elasticity, it can be difficult for the development team to track down the problematic machine and view its logs, as it wouldn't be secure as well as convenient to hand out production machine access (For eg: SSH) to different development teams.
+- Due to `Rapid Elasticity`, it can be difficult for the development team to track down the problematic machine and view its logs, as it wouldn't be secure as well as convenient to hand out production machine access (For eg: SSH) to different development teams.
 - Almost all major cloud providers provide a service which can ingest log or log-like data. (For eg: Cloudwatch logs, ELK)
 - Applications should forward their logs to centralized logging service.
 - `On-demand self-service` centralized logging solution can be used by development teams to securely and conveniently access the production logs.
@@ -68,8 +68,8 @@ Cloud-Native applications should have the following characteristics:
 
 ### Automation
 
-- All the processes, tools which are used for developing, deployment and maintaining the apps should be automated or either should have API(s) for automation via custom scripts.
+- All the processes, tools which are used for development, deployment and maintenance of the apps should be automated or have API(s) for automation via custom scripts.
 
 ### API centric
 
-- Applications use well defined lightweight API on top of common protocols (For eg: REST, gRPC) for exchanging the data. The protocols used are intentionally language independent to support Polyglot architecture.
+- Applications use well defined lightweight API on top of common protocols (For eg: REST, gRPC) for exchanging the data. The protocols used are intentionally language independent to support Polyglot Paradigm.
