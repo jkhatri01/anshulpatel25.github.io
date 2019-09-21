@@ -19,7 +19,7 @@ so that development team can maintain healthy **DIET** of software services and 
 * **D**evelop
 * **I**ntegrate
 * **E**nhance
-* **T**est  
+* **T**est
 
 I focus on the following:
 
